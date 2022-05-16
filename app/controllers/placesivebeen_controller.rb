@@ -1,0 +1,2 @@
+class PlacesivebeenController < ApplicationController
+end
