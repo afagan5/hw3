@@ -1,0 +1,2 @@
+class MexicocityController < ApplicationController
+end

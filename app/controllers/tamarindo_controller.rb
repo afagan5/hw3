@@ -1,0 +1,2 @@
+class TamarindoController < ApplicationController
+end
